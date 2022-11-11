@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Volume Calculator</string>
+    <string name="panjang">Panjang</string>
+    <string name="hint_panjang">Masukkan Panjang (m^3)</string>
+    <string name="lebar">Lebar</string>
+    <string name="hint_lebar">Masukkan Lebar (m^3)</string>
+    <string name="tinggi">Tinggi</string>
+    <string name="hint_tinggi">Masukkan Tinggi (m^3)</string>
+    <string name="btn_hitung">Hitung Volume</string>
+    <string name="hint_hasil">Hasil</string>
+    <string name="hasil">0</string>
+</resources>
